@@ -1,0 +1,18 @@
+[
+  {
+    "name": "MachineLearning",
+    "displayName": "MachineLearning",
+    "posts": [
+      {
+        "id": "MachineLearning-04-07-2026-A_tiny_vision_gemma_and_nasty_tiny_mamba.md",
+        "title": "A tiny vision gemma and nasty tiny mamba",
+        "date": "2026-07-04T07:00:00.000Z",
+        "category": "MachineLearning",
+        "filename": "04-07-2026-A_tiny_vision_gemma_and_nasty_tiny_mamba.md",
+        "excerpt": "I released these models months ago on Hugging Face, but I'm reposting the links in this post to keep track of them.(click here)",
+        "content": "# A Tiny Vision Gemma3 with 270M Parameters and Tiny Language Model Mamba3\n\nI released these models months ago on Hugging Face, but I'm reposting the links in this post to keep track of them.(click here)\n\n## Gemma3 270M\n\nI just added a simple projector layer to the 270M version of Gemma and validated that it has multimodal capabilities using the CIFAR-10 dataset.\n\n[Link here](https://huggingface.co/openwaifudotcom/multigemma3-270m)\n\n## Tiny Mamba3\n\nThis is just a kinky Mamba3-based model trained on a custom NSFW dataset (be aware).\n\n[Link here](https://huggingface.co/openwaifudotcom/nasty-mamba-3/)\n\nThis model is so small that you can even run it in the browser.\n\n[ONNX inference](https://recursive-eromamba.b-cdn.net/dist/onnx_inference.html)\n",
+        "relations": []
+      }
+    ]
+  }
+]
